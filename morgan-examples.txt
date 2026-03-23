@@ -46,7 +46,8 @@ Rinse JSON-LD Snippet
         "@type": "Person",
         "name": "Mish Grigor",
         "sameAs": "http://www.wikidata.org/entity/Q134876978"
-        },
+        }
+      },
       {
       "@type": "Role",
       "roleName": "Lighting Design",
@@ -73,7 +74,6 @@ Rinse JSON-LD Snippet
         "name": "Daniel Jenatsch",
         "sameAs": "http://www.wikidata.org/entity/Q52892009"
         }
-      }
       }
     ]
   }
