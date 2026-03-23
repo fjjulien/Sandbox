@@ -46,7 +46,34 @@ Rinse JSON-LD Snippet
         "@type": "Person",
         "name": "Mish Grigor",
         "sameAs": "http://www.wikidata.org/entity/Q134876978"
+        },
+      {
+      "@type": "Role",
+      "roleName": "Lighting Design",
+      "contributor": {
+        "@type": "Person",
+        "name": "Matt Adey",
+        "sameAs": "http://www.wikidata.org/entity/Q134877046"
         }
+      },
+      {
+      "@type": "Role",
+      "roleName": "Sound Design",
+      "contributor": {
+        "@type": "Person",
+        "name": "Daniel Jenatsch",
+        "sameAs": "http://www.wikidata.org/entity/Q52892009"
+        }
+      },
+      {
+      "@type": "Role",
+      "roleName": "Composer",
+      "contributor": {
+        "@type": "Person",
+        "name": "Daniel Jenatsch",
+        "sameAs": "http://www.wikidata.org/entity/Q52892009"
+        }
+      }
       }
     ]
   }
