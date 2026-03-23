@@ -15,14 +15,25 @@ Rinse JSON-LD Snippet
   "workPerformed": {
     "@type": "PerformanceWork",
     "name": "Rinse",
-    "contributor": {
+    "contributor": [
+      {
       "@type": "Role",
       "roleName": "Co-writer",
       "contributor": {
         "@type": "Person",
         "name": "Mish Grigor",
         "sameAs": "http://www.wikidata.org/entity/Q134876978"
-      }
-    }
+        }
+      },
+      {
+      "@type": "Role",
+      "roleName": "Director",
+      "contributor": {
+        "@type": "Person",
+        "name": "Mish Grigor",
+        "sameAs": "http://www.wikidata.org/entity/Q134876978"
+        }
+      },
+    ]
   }
 }
