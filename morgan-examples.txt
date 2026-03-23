@@ -1,3 +1,94 @@
+Orpheus JSON-LD Snippet
+
+{
+  "@context": "https://schema.org",
+  "@id": "https://alanlakefactorie.org/portfolio/orpheus-sabreuver-des-volcans/",
+  "@type": "PerformanceWork",
+  "name": "Orpheus | S'abreuver des volcans",
+  "url": "https://alanlakefactorie.org/portfolio/orpheus-sabreuver-des-volcans/",
+  "mainEntityOfPage": "https://scenepro.ca/offres-de-spectacles/Orpheus%20%7C%20S'abreuver%20des%20volcans-7276",
+  "about": {
+    "@type": "Person",
+    "name": "Orpheus",
+    "sameAs": "http://www.wikidata.org/entity/Q174353"
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "Alan Lake",
+    "sameAs": "http://www.wikidata.org/entity/Q64925368"
+  },
+  "producer": {
+    "@type": "Organization",
+    "name": "Alan Lake Factori(e)",
+    "url": "https://alanlakefactorie.org/"
+  },
+  "inLanguage": "fr",
+  "isPerformedIn": {
+    "@type": "Role",
+    "name": "Premiere",
+    "sameAs": "http://www.wikidata.org/entity/Q204854",
+    "isPerformedIn": {
+      "@id": "http://kg.artsdata.ca/resource/K23-3649",
+      "@type": "PerformingArtsEvent",
+      "name": "Orpheus | S'abreuver des volcans",
+      "startDate": "2025-03-26T20:00:00-04:00",
+      "location": {
+        "@type": "Place",
+        "name": "Carré 150",
+        "sameAs": "http://www.wikidata.org/entity/Q135193235"
+      }
+    }
+  }
+}
+
+
+
+Rite of Spring JSON-LD snippet
+
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "lrmoo": "http://iflastandards.info/ns/lrm/lrmoo/"
+    },
+  "@id": "https://www.pina-bausch.de/en/plays/10/the-rite-of-spring#PerformanceWork",
+  "@type": "PerformanceWork",
+  "name": "The Rite of Spring",
+  "url": "https://www.pina-bausch.de/en/plays/10/the-rite-of-spring",
+  "creator": {
+    "@type": "Person",
+    "name": "Pina Bausch",
+    "sameAs": "http://www.wikidata.org/entity/Q155538"
+    },
+  "producer": {
+    "@type": "Organization",
+    "name": "Tanztheater Wuppertal Pina Bausch",
+    "sameAs": "http://www.wikidata.org/entity/Q325443"
+    }
+  "lrmoo:usesExpressionOf": {
+    "@type": "CreativeWork",
+    "name": "The Rite of Spring",
+    "creator": {
+      "@type": "Person",
+      "name": "Igor Stravinsky",
+      "sameAs": "http://www.wikidata.org/entity/Q7314"
+      },
+    "sameAs": "http://www.wikidata.org/entity/Q206015"
+    },
+  "isPerformedIn": {
+    "@id": "https://www.pina-bausch.de/en/plays/10/the-rite-of-spring#PerformingArtsEvent",
+    "@type": "PerformingArtsEvent",
+    "name": "The Rite of Spring",
+    "startDate": "1975-12-03",
+    "location": {
+      "@type": "Place",
+      "name": "Opernhaus Wuppertal",
+      "sameAs": "http://www.wikidata.org/entity/Q830841"
+      }
+  }
+}
+
+
+
 Rinse JSON-LD Snippet
 
 {
