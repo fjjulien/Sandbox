@@ -1,0 +1,28 @@
+Rinse JSON-LD Snippet
+
+{
+  "@context": "https://schema.org",
+  "@id": "https://nac-cna.ca/en/event/38366",
+  "@type": "PerformingArtsEvent",
+  "name": "Rinse | Amrita Hepi with Mish Grigor | Performing Lines",
+  "url": "https://nac-cna.ca/en/event/38366",
+  "startDate": "2026-01-22T20:00:00-05:00",
+  "endDate": "2026-01-24T21:00:00-05:00",
+  "location": {
+    "@type": "Place",
+    "name": "Azrieli Studio - National Arts Centre"
+  },
+  "workPerformed": {
+    "@type": "PerformanceWork",
+    "name": "Rinse",
+    "contributor": {
+      "@type": "Role",
+      "roleName": "Co-writer",
+      "contributor": {
+        "@type": "Person",
+        "name": "Mish Grigor",
+        "sameAs": "http://www.wikidata.org/entity/Q134876978"
+      }
+    }
+  }
+}
