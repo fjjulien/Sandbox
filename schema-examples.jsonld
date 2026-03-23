@@ -1,0 +1,19 @@
+TYPES: #eg-4467a PerformanceWork
+
+PRE-MARKUP:
+
+Introducing the <strong>Fnuffl</strong>.
+More information <a href="http://example.com">here</a>.
+
+MICRODATA:
+
+<div itemscope itemtype="https://schema.org/Thing">
+Introducing the <strong itemprop="name">Fnuffl</strong>.
+More information <a itemprop="url" href="http://example.com/fnuffl">here</a>.
+</div>
+
+RDFA:
+
+n/a
+
+JSON:
