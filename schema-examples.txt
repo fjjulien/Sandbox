@@ -2,18 +2,38 @@ TYPES: #eg-4467a PerformanceWork
 
 PRE-MARKUP:
 
-Introducing the <strong>Fnuffl</strong>.
-More information <a href="http://example.com">here</a>.
+Example of a PerformanceWork work with its premiere performance. 
 
 MICRODATA:
 
-<div itemscope itemtype="https://schema.org/Thing">
-Introducing the <strong itemprop="name">Fnuffl</strong>.
-More information <a itemprop="url" href="http://example.com/fnuffl">here</a>.
-</div>
+n/a
 
 RDFA:
 
 n/a
 
 JSON:
+
+<script type="application/ld+json">
+
+</script>
+
+TYPES: #eg-4467b PerformanceWork
+
+PRE-MARKUP:
+
+Example of a PerformanceWork basedOn/using an expression of another work (e.g. Pina Bausch's 'The Rite of Spring' using the expression of a Igor Stravinsky's ballet 'The Rite of Spring').
+
+MICRODATA:
+
+n/a
+
+RDFA:
+
+n/a
+
+JSON:
+
+<script type="application/ld+json">
+
+</script>
