@@ -51,7 +51,7 @@ Rinse JSON-LD Snippet
         "name": "Mish Grigor",
         "sameAs": "http://www.wikidata.org/entity/Q134876978"
         }
-      },
+      }
     ]
   }
 }
