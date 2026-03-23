@@ -12,15 +12,11 @@ Rinse JSON-LD Snippet
     "@type": "Place",
     "name": "Azrieli Studio - National Arts Centre"
   },
-  {
-  "@type": "Role",
-  "roleName": "Performer",
-  "contributor": {
+  "performer": {
     "@type": "Person",
     "name": "Amrita Hepi",
     "sameAs": "http://www.wikidata.org/entity/Q134599760"
-    }
-  },
+    },
   "workPerformed": {
     "@type": "PerformanceWork",
     "name": "Rinse",
