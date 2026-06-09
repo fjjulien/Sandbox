@@ -25,129 +25,112 @@
       {
          "@type": "Person",
          "name": "Natasha Blackwood",
-         "url": "https://natashablackwood.com/",
-         "@id": "http://kg.artsdata.ca/resource/K4-515"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-515"
       },
       {
          "@type": "Person",
          "name": "Tanya Davis",
-         "url": "https://tanyadavis.ca/",
-         "@id": "http://kg.artsdata.ca/resource/K5-1322"
+         "sameAs": "http://kg.artsdata.ca/resource/K5-1322"
       },
       {
          "@type": "Organization",
          "name": "Little Misty",
-         "url": "http://www.littlemistyband.com/",
-         "@id": "http://kg.artsdata.ca/resource/K5-45"
+         "sameAs": "http://kg.artsdata.ca/resource/K5-45"
       },
       {
          "@type": "Person",
          "name": "Sophie Lukacs",
-         "url": "https://www.sophielukacs.com/",
-         "@id": "http://kg.artsdata.ca/resource/K4-1004"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-1004"
       },
       {
          "@type": "Person",
          "name": "Mat Hughes",
-         "url": "https://mathughesmusic.com/",
-         "@id": "http://kg.artsdata.ca/resource/K4-565"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-565"
       },
       {
          "@type": "Person",
          "name": "Logan Richard",
-         "url": "https://loganrichardmusic.com/",
-         "@id": "http://kg.artsdata.ca/resource/K4-494"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-494"
       },
       {
          "@type": "Person",
          "name": "Tyler Hache",
-         "url": "https://www.tylerhache.com/",
-         "@id": "http://kg.artsdata.ca/resource/K4-637"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-637"
       },
       {
          "@type": "Organization",
          "name": "Durham County Poets",
-         "url": "https://durhamcountypoets.com/",
-         "@id": "http://www.wikidata.org/entity/Q108919206"
+         "sameAs": "http://www.wikidata.org/entity/Q108919206"
       },
       {
          "@type": "Person",
          "name": "Daniel James McFadyen",
-         "url": "https://danieljamesmcfadyen.com/home",
-         "@id": "http://kg.artsdata.ca/resource/K4-355"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-355"
       },
       {
          "@type": "Person",
          "name": "John Muirhead",
-         "url": "https://johnmuirhead.com/"
+         "sameAs": "https://johnmuirhead.com/"
       },
       {
          "@type": "Organization",
          "name": "Tocani",
-         "url": "https://tocaniproject.com/"
+         "sameAs": "https://tocaniproject.com/"
       },
       {
          "@type": "Organization",
          "name": "Rube & Rake",
-         "url": "https://rubeandrake.com/"
+         "sameAs": "https://rubeandrake.com/"
       },
       {
          "@type": "Organization",
          "name": "Zuppa",
-         "url": "https://zuppa.works"
+         "sameAs": "https://zuppa.works"
       },
       {
          "@type": "Person",
          "name": "Jing Xia",
-         "url": "https://www.jing-xia.com/",
-         "@id": "http://kg.artsdata.ca/resource/K2-6017"
+         "sameAs": "http://kg.artsdata.ca/resource/K2-6017"
       },
       {
          "@type": "Organization",
          "name": "Corpuscule Danse",
-         "url": "https://corpusculedanse.com/",
-         "@id": "http://kg.artsdata.ca/resource/K4-741"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-741"
       },
       {
          "@type": "Organization",
          "name": "Oktopus",
-         "url": "https://www.oktopus.ca/",
-         "@id": "http://kg.artsdata.ca/resource/K10-392"
+         "sameAs": "http://kg.artsdata.ca/resource/K10-392"
       },
       {
          "@type": "Organization",
          "name": "The Dusty Halos",
-         "url": "https://www.rebeccafairless.com/the-dusty-halos"
+         "sameAs": "https://www.rebeccafairless.com/the-dusty-halos"
       },
       {
          "@type": "Organization",
          "name": "HEIST",
-         "url": "https://www.liveheist.com/",
-         "@id": "http://kg.artsdata.ca/resource/K4-916"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-916"
       },
       {
          "@type": "Person",
          "name": "Tina Leon",
-         "url": "https://tinaleonofficial.com/",
-         "@id": "http://kg.artsdata.ca/resource/K5-1475"
+         "sameAs": "http://kg.artsdata.ca/resource/K5-1475"
       },
       {
          "@type": "Organization",
          "name": "Aquakultre",
-         "url": "https://aquakultre.com/",
-         "@id": "http://kg.artsdata.ca/resource/K4-672"
+         "sameAs": "http://kg.artsdata.ca/resource/K4-672"
       },
       {
          "@type": "Organization",
          "name": "Pony Girl",
-         "url": "https://www.ponygirl.ca/",
-         "@id": "http://www.wikidata.org/entity/Q50333293"
+         "sameAs": "http://www.wikidata.org/entity/Q50333293"
       },
       {
          "@type": "Person",
          "name": "Abigail Lapell",
-         "url": "https://www.abigaillapell.com/",
-         "@id": "http://kg.artsdata.ca/resource/K12-153"
+         "sameAs": "http://kg.artsdata.ca/resource/K12-153"
       }
    ]
 }
