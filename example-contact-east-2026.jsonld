@@ -23,112 +23,112 @@
    "url": "https://contacteast.ca/",
    "performer": [
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Natasha Blackwood",
          "sameAs": "http://kg.artsdata.ca/resource/K4-515"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Tanya Davis",
          "sameAs": "http://kg.artsdata.ca/resource/K5-1322"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Little Misty",
          "sameAs": "http://kg.artsdata.ca/resource/K5-45"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Sophie Lukacs",
          "sameAs": "http://kg.artsdata.ca/resource/K4-1004"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Mat Hughes",
          "sameAs": "http://kg.artsdata.ca/resource/K4-565"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Logan Richard",
          "sameAs": "http://kg.artsdata.ca/resource/K4-494"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Tyler Hache",
          "sameAs": "http://kg.artsdata.ca/resource/K4-637"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Durham County Poets",
          "sameAs": "http://www.wikidata.org/entity/Q108919206"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Daniel James McFadyen",
          "sameAs": "http://kg.artsdata.ca/resource/K4-355"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "John Muirhead",
          "sameAs": "https://johnmuirhead.com/"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Tocani",
          "sameAs": "https://tocaniproject.com/"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Rube & Rake",
          "sameAs": "https://rubeandrake.com/"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Zuppa",
          "sameAs": "https://zuppa.works"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Jing Xia",
          "sameAs": "http://kg.artsdata.ca/resource/K2-6017"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Corpuscule Danse",
          "sameAs": "http://kg.artsdata.ca/resource/K4-741"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Oktopus",
          "sameAs": "http://kg.artsdata.ca/resource/K10-392"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "The Dusty Halos",
          "sameAs": "https://www.rebeccafairless.com/the-dusty-halos"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "HEIST",
          "sameAs": "http://kg.artsdata.ca/resource/K4-916"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Tina Leon",
          "sameAs": "http://kg.artsdata.ca/resource/K5-1475"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Aquakultre",
          "sameAs": "http://kg.artsdata.ca/resource/K4-672"
       },
       {
-         "@type": "Organization",
+         "@type": "Agent",
          "name": "Pony Girl",
          "sameAs": "http://www.wikidata.org/entity/Q50333293"
       },
       {
-         "@type": "Person",
+         "@type": "Agent",
          "name": "Abigail Lapell",
          "sameAs": "http://kg.artsdata.ca/resource/K12-153"
       }
