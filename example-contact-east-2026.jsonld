@@ -24,112 +24,134 @@
    "url": "https://contacteast.ca/",
    "performer": [
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Natasha Blackwood",
          "sameAs": "http://kg.artsdata.ca/resource/K4-515"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Tanya Davis",
          "sameAs": "http://kg.artsdata.ca/resource/K5-1322"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Little Misty",
          "sameAs": "http://kg.artsdata.ca/resource/K5-45"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Sophie Lukacs",
          "sameAs": "http://kg.artsdata.ca/resource/K4-1004"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Mat Hughes",
          "sameAs": "http://kg.artsdata.ca/resource/K4-565"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Logan Richard",
          "sameAs": "http://kg.artsdata.ca/resource/K4-494"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Tyler Hache",
          "sameAs": "http://kg.artsdata.ca/resource/K4-637"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Durham County Poets",
          "sameAs": "http://www.wikidata.org/entity/Q108919206"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Daniel James McFadyen",
          "sameAs": "http://kg.artsdata.ca/resource/K4-355"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "John Muirhead",
          "sameAs": "https://johnmuirhead.com/"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Tocani",
          "sameAs": "https://tocaniproject.com/"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Rube & Rake",
          "sameAs": "https://rubeandrake.com/"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Zuppa",
          "sameAs": "https://zuppa.works"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Jing Xia",
          "sameAs": "http://kg.artsdata.ca/resource/K2-6017"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Corpuscule Danse",
          "sameAs": "http://kg.artsdata.ca/resource/K4-741"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Oktopus",
          "sameAs": "http://kg.artsdata.ca/resource/K10-392"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "The Dusty Halos",
          "sameAs": "https://www.rebeccafairless.com/the-dusty-halos"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "HEIST",
          "sameAs": "http://kg.artsdata.ca/resource/K4-916"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Tina Leon",
          "sameAs": "http://kg.artsdata.ca/resource/K5-1475"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Aquakultre",
          "sameAs": "http://kg.artsdata.ca/resource/K4-672"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Pony Girl",
          "sameAs": "http://www.wikidata.org/entity/Q50333293"
       },
       {
-         "@type": "http://dbpedia.org/ontology/Agent",
+         "@type": "Thing",
+         "additionalType": "http://dbpedia.org/ontology/Agent",
          "name": "Abigail Lapell",
          "sameAs": "http://kg.artsdata.ca/resource/K12-153"
       }
